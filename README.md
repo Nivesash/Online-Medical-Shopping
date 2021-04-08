@@ -1,4 +1,4 @@
-# OnlineMedicalStore
+# Online Medical Shopping
 Online Medical Store using PHP and Mysql
 # Hospital Management System
 Online Medical Store using MySQL, Php and Bootstrap
